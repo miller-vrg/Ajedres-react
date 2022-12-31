@@ -1,0 +1,8 @@
+.tablero {
+    width: 400px;
+    height: 400px;
+    background: #282c34;
+    border: 1px solid;
+    display: grid;
+    grid-template: repeat(8, 50px) / repeat(8, 50px);
+}
